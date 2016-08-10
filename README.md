@@ -8,12 +8,12 @@ This objective of this project was to design a system which read in audio sample
 
 ## Flow diagram:
 <br>
-![alt tag]()
+![alt tag](https://github.com/souzanmirza/2DP4Project/blob/master/esduino-flowchart.jpg)
 <br>
 ###### Flow diagram of main program in Esduino
 <br>
 <br>
-![alt tag]()
+![alt tag](https://github.com/souzanmirza/2DP4Project/blob/master/matlab-flowchart.jpg)
 <br>
 ###### Flow diagram of Matlab serial read program
 
